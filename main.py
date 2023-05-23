@@ -1,4 +1,4 @@
-# Domonique Janai Cano Module 7
+# @heyitsjanai SNHU - 2021
 
 # Created list variable for possible directions
 direction = ['North', 'East', 'South', 'West']
