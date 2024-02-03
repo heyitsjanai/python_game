@@ -1,8 +1,12 @@
-# poseidons_adventure
-Text-Based Adventure Game!
+# Poseidon's Trident Adventure
+Simple **Python** application that gets user input to navigate a maze.
 
-One of my first Python projects! I found it fun to learn
-how dictionaries work and how they can be implemented.
+## Learning Points
+- Python
+- dictionaries
+- for loops
+- user input validation
+- error catching
 
 I'll eventually be making edits to optimize this code &
 create an even better version of this game, but it is functional
